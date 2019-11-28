@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://israel123:israel123@devconnector-fecyt.mongodb.net/test?retryWrites=true&w=majority"
+}
