@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://israel123:israel123@devconnector-fecyt.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "458a91c3b6e566d31c08",
+    "githubSecret": "ec98eb85603b29b7da8ff11d4cba93e137d2f8d1"
 }
